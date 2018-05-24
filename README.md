@@ -1,5 +1,5 @@
-# Baduino_Leonardo
-Arduino Badusb Script
+# Badino_Leonardo
+Arduino Badusb Script With Payload
 
 ![Windows Linux Tested](http://www.imgim.com/9713inciy4448138.png "Tested")
 
