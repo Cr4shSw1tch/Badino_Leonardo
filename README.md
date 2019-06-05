@@ -8,7 +8,7 @@
 
  * **It has a *simple* and *fast* structure.**
  
- * **Just get your domain adress and upload arduino**
+ * **Just write your domain address and load the code into arduino leonardo**
 
 ![Windows Tested](https://i.ibb.co/QDtvf99/Badino-Leonardo.png "Tested")
 
